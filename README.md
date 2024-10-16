@@ -5,3 +5,7 @@
 Para ejecutar el sistema, debes seguir los pasos:
 
 ```npn intall react```
+
+- Lenguajes de programacion usados:
+
+```HTML5, JavaScript```
